@@ -1,4 +1,4 @@
 canvas-metaballs
 ================
 
-canvas-metaballs
+[Example](http://herrmannplatz.github.io/canvas-metaballs/)
